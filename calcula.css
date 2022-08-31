@@ -1,0 +1,37 @@
+div{
+    margin-left:511px;
+    margin-top:250px ;
+    height: 257px;
+    width: 16%;
+    color: yellowgreen;
+    background-color:aquamarine;
+    border:darkmagenta 2px solid;
+    text-align: center;
+}
+button{
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.a2{
+    background-color: red;
+    color: white;
+   
+}
+.a1{
+    background-color: cornflowerblue;
+    color: white;
+ 
+}
+body{
+    background-color: yellow;
+    display: block;
+    margin: 8px;
+}
+.inputbox{
+    margin-top: 8px;
+    margin-left: 21px;
+    width: 145px;
+    height: 50px;
+    border-radius: 9px;
+}
